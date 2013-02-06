@@ -13,7 +13,7 @@ Activity
 -------------
 
 Upcoming:
-* 20130122T1800 - Phone Conference for Local Leads
 
 Latest:
-(none)
+* 20130204T1800 - Phone Conference for Local Leads
+* 20130122T1800 - Phone Conference for Local Leads
